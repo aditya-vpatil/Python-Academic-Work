@@ -20,6 +20,13 @@ else:
         discount_rate = 0
 
 
+if customer_type == "regular":
+    discount_rate = discount_rate
+    discount = amount * discount_rate / 100
+    amount_after_discount = amount - discount
+if amount_after_discount >= 2000:
+    delivery = 0
+
        
 if customer_type == "premium":
     discount_rate = discount_rate + 5
