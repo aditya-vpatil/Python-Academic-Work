@@ -5,5 +5,6 @@ This folder contains small Python mini-projects developed to practise programmin
 Topics
 
 - Conditional Statements
+- Looping Statements
 
 Projects are organized by topic as they are completed.

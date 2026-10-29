@@ -12,6 +12,8 @@ Folder| Description
 
 "03_Strings"| Assignments practising string operations
 
+"04_List"| Assignments practising List methods
+
 Each topic folder contains its respective Python assignment files.
 
 Purpose

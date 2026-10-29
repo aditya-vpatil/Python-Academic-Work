@@ -12,6 +12,8 @@ Topics Covered
 - Conditional Statements
 - Loops
 - Strings
+- List
+
 
 Purpose
 
